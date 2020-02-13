@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head {
+    background-image: url(./images/bg-header-desktop.png);
+}
+button{
+    width: 200px;
+}
+.history .tory .btn1{
+    border-radius: 30px;
+    background: hsl(171, 66%, 44%);
+    font-size: 20px;
+}
+.history .tory .btn2{
+    border-radius: 30px;
+    background: hsl(233, 100%, 69%);
+    font-size: 20px;
+}
+.body1 img{
+    width: 100%;
+}
+.body3 img{
+    width: 40px;
+}
+.body4 img{
+    width: 150px;
+}
+.body5 .tory .btn1{
+    border-radius: 30px;
+    background: hsl(171, 66%, 44%);
+}
+.body5 .tory .btn2{
+    border-radius: 30px;
+    background: hsl(233, 100%, 69%)
+}
+footer{
+    background: hsl(201, 11%, 66%);
+}
+footer .fot{
+    justify-content: space-between;
+}
+footer .fota2 img{
+    width: 40px;
+}
